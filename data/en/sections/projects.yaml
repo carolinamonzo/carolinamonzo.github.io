@@ -48,7 +48,7 @@ projects:
 
 - name: National Plan 2020
   logo: /images/sections/projects/micin.jpg
-  image: /images/sections/projects/bioconductor.jpg
+  image: /images/sections/projects/bioconductor.png
   role: Contributor
   timeline: "Sep 2022 - Sep 2024"
   repo: https://github.com/ConesaLab/MOSim
