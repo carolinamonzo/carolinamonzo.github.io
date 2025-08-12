@@ -10,15 +10,28 @@ section:
 
 # Your achievements achievements
 achievements:
-- title: Oxford Nanopore Grant
-  image: /images/sections/achievements/presenter.jpg
-  summary: Best presenter in the 2020 XYZ conference.
-- title: Champion
-  image: /images/sections/achievements/sport.jpg
-  summary: Champion in cycling inter-city cycling championship 2020.
-- title: Graduation
-  image: /images/sections/achievements/graduation-cap.jpg
-  summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
-- title: Award Winner
-  image: /images/sections/achievements/woman-winner.jpg
-  summary: Wined best paper award at IEE Conference 2020.
+- title: Keynote Speaker
+  image: /images/sections/achievements/keynote.jpeg
+  summary: IX Spanish Symposium of Bioinformatics Students.
+- title: 2nd Prize Best Flash Talk
+  image: /images/sections/achievements/flashtalk.jpeg
+  summary: 2nd Symposium for Spanish-Speaking Students
+- title: Finalist Best PhD Thesis
+  image: /images/sections/achievements/accesit_phd.jpeg
+  summary: Spanish Society for Bioinformatics and Computational Biology.
+- title: Best Poster Prize
+  image: /images/sections/achievements/bestposter.jpeg
+  summary: 2nd Congress of the Spanish Society for Bioinformatics and Computational Biology.
+- title: Invited talk
+  image: /images/sections/achievements/bcb.jpeg
+  summary: 2nd Assembly of the CSIC Connection on Bioinformatics and Computational Biology (BCB Hub)
+- title: Invited talk
+  image: /images/sections/achievements/conmicro.jpg
+  summary: 1st Assembly of the CSIC Connection on Microbiology
+- title: Invited talk
+  image: /images/sections/achievements/immcantantion.jpeg
+  summary: The 2024 Immcantantion Users Group Meeting
+- title: Invited talk
+  image: /images/sections/achievements/ecs.jpg
+  summary: Early Career Seminars of the I2SysBio
+
