@@ -11,36 +11,148 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Linux Foundation System Administrator
-  timeline: "March 2018 - March 2019"
+- name: AWS Cloud Practitioner Essentials
+  timeline: "August 2025"
   organization:
-    name: Linux Foundation
-    url: https://www.linuxfoundation.org
-  courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
-  certificateURL: "https://example.com"
+    name: AWS with Coursera
+    url: https://www.coursera.org
+  courseOverview: Core AWS concepts and the benefits of using AWS Cloud. AWS global infrastructure basics. Key AWS services (compute, networking, databases, storage). Financial aspects of AWS (cost models, billing, pricing, and tools to manage expenses)
 
-- name: Machine Learning
-  timeline: "Jun 2020 - Jan 2021"
+- name: Animal Experimentation
+  timeline: "July 2025"
+  organization:
+    name: Centro de Estudios Biosanitarios
+    url: https://experimentacionanimal.ceb.edu.es/
+  courseOverview: Certification course for Function D, experimental and process design, recognized by the Spanish ministry of science.
+
+- name: Focus on Peer review
+  timeline: "February 2024"
+  organization:
+    name: Springer Nature
+    url: https://masterclasses.nature.com/focus-on-peer-review-online-course/16605550
+  courseOverview: Training course to teach researchers the foundations of good peer review.
+
+- name: Getting Funded, Writing an Individual Fellowship Application
+  timeline: "May 2022"
+  organization:
+    name: BioScript
+    url: http://www.bioscript.de/index.html
+  courseOverview: Training in drafting and writing a fellowship proposal.
+
+- name: Career Mentoring and Management, Applying for Jobs on the Wider Market
+  timeline: "February 2022"
+  organization:
+    name: BioScript
+    url: http://www.bioscript.de/index.html
+  courseOverview: Training on identifying job offers in industry, CV and interview preparation.
+
+- name: Genomics in Rare Diseases
+  timeline: "December 2021"
+  organization:
+    name: Genotipia and Illumina
+    url: https://campus.genotipia.com/cursos-genetica-y-genomica/
+  courseOverview: Training in improving genetic dianosis of patients with rare diseases.
+
+- name: Designing and Presenting a Poster
+  timeline: "October 2021"
+  organization:
+    name: BioScript
+    url: http://www.bioscript.de/index.html
+  courseOverview: Training on efficient poster design and presentation.
+
+- name: Advanced Scientific Writing
+  timeline: "July 2021"
+  organization:
+    name: BioScript
+    url: http://www.bioscript.de/index.html
+  courseOverview: Advanced training on drafting and writing scientific articles.
+
+- name: Machine Learning and Big Data for Bioinformatics
+  timeline: "April 2021"
+  organization:
+    name: University of Granada
+    url: https://abierta.ugr.es/course/view.php?id=97
+  courseOverview: Course on machine learning methods for bioinformatics, including supervised and unsupervised methods.
+
+- name: Good Scientific Practice
+  timeline: "March 2019"
+  organization:
+    name: Max Planck Institute
+    url: https://www.age.mpg.de/en
+  courseOverview: Course on good scientific practices and cases discussion.
+
+- name: Algorithms for DNA Sequencing
+  timeline: "September 2018"
   organization:
     name: Coursera
     url: https://www.coursera.org
-  courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
-  certificateURL: "https://example.com"
+  courseOverview: Computational methods, algorithms and data structures for analyzing DNA sequencing data.
 
-- name: Grokking the System Design Interview
-  timeline: "Jan 2018 - Sept 2018"
+- name: Bacterial Genomes, from DNA to protein using bioinformatics
+  timeline: "September 2018"
   organization:
-    name: educative
-    url: https://www.educative.io
-  courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
-  certificateURL: "https://example.com"
+    name: Welcome Genome Campus on Future Learn
+    url: https://coursesandconferences.wellcomeconnectingscience.org/event/bacterial-genomes-from-dna-to-protein-function-using-bioinformatics-20201012/
+  courseOverview: Training to use bioinformatics to explore DNA sequences and protein functions, to evaluate virulence.
 
-- name: Mastering Multithreading Programming with Go (Golang)
-  timeline: "Nov 2017 - Mar 2018"
+- name: Genomic Medicine in Oncology and it's clinical applications
+  timeline: "May 2018"
   organization:
-    name: Udemy
-    url: https://www.udemy.com
-  courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, multithreading topics.
-  certificateURL: "https://example.com"
+    name: Institute of Genomic Medicine and Medical Genetics Journal
+    url: https://campus.genotipia.com/formacion/curso-medicina-genomica-en-oncologia/
+  courseOverview: Training course on using genomics for diagnosis and cancer treatment.
+
+- name: Networks & Pathways
+  timeline: "May 2018"
+  organization:
+    name: European Bioinformatics Institute
+    url: https://www.ebi.ac.uk/training/materials/summer-school-materials/group-projects/networks-and-pathways/
+  courseOverview: Training on exploring biological functions through network analysis.
+
+- name: Command Line Tools for Genomic Data Science
+  timeline: "December 2017"
+  organization:
+    name: Coursera
+    url: https://www.coursera.org
+  courseOverview: Training on using tools such as samtools, bedtools, bwa, vep etc for genomic data analysis.
+
+- name: Python for Genomic Data Analysis
+  timeline: "March 2017"
+  organization:
+    name: Coursera
+    url: https://www.coursera.org
+  courseOverview: Training on using python classes and packages for genomic data analysis.
+
+- name: International Course on Genomic Data Analysis, Genomics and Transcriptomics
+  timeline: "March 2016"
+  organization:
+    name: Príncipe Felipe Investigation Centre
+    url: https://www.cipf.es/
+  courseOverview: Introductory training on using tools for genomic and transcriptomic data analysis.
+
+- name: Introductory course on identifying sharks and fish
+  timeline: "April 2014"
+  organization:
+    name: University of Valencia
+    url: https://www.uv.es/
+  courseOverview: Theoretical and practical course on identifying and classifying sharks and fish.
+
+- name: III Workshop on Morphometry and Shark Dissection
+  timeline: "February 2014"
+  organization:
+    name: University of Valencia
+    url: https://www.uv.es/
+  courseOverview: Theoretical and practical course on correct dissection of sharks.
+
+- name: Introduction to the identification of marine invertebrates of Mediterranean waters
+  timeline: "December 2021"
+  organization:
+    name: University of Valencia
+    url: https://www.uv.es/
+  courseOverview: Theoretical course on identification and classification of marine invertebrates, focused on cnidaria.
+
+
+
+
  
 
