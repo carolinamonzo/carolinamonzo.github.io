@@ -26,12 +26,15 @@ achievements:
   image: /images/sections/achievements/bcb.jpeg
   summary: 2nd Assembly of the CSIC Connection on Bioinformatics and Computational Biology (BCB Hub)
 - title: Invited talk
+  image: /images/sections/achievements/sebibc.jpeg
+  summary: Seminar for the Spanish Society of Computational Biology.
+- title: Invited talk
   image: /images/sections/achievements/conmicro.jpg
-  summary: 1st Assembly of the CSIC Connection on Microbiology
+  summary: 1st Assembly of the CSIC Connection on Microbiology.
 - title: Invited talk
   image: /images/sections/achievements/immcantantion.jpeg
-  summary: The 2024 Immcantantion Users Group Meeting
+  summary: The 2024 Immcantantion Users Group Meeting.
 - title: Invited talk
   image: /images/sections/achievements/ecs.jpg
-  summary: Early Career Seminars of the I2SysBio
+  summary: Early Career Seminars of the I2SysBio.
 
