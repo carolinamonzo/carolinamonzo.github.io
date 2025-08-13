@@ -1,11 +1,193 @@
 # section information
 section:
   name: Outreach
-  id: recent-posts
+  id: outreach
   enable: true
   weight: 9
-  showOnNavbar: false
+  showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
 
-# no additional configuration is required
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: General Public
+  filter: "general-public"
+- name: Specialized Community
+  filter: "specialized-community"
+
+# your projects
+projects:
+- name: Long-reads Bioinformatics Summer School
+  role: Lecturer and Organizer
+  timeline: "July 2025"
+  image: images/sections/outreach/summer.jpeg
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://www.earlham.ac.uk/events/long-reads-bioinformatics-summer-school"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Introductiory session on study design, sequencing technologies and ground truth data.
+  tags: ["specialized-community"]
+
+- name: News post about my recent publication on multi-omics.
+  role: News
+  timeline: "June 2025"
+  image: /images/sections/outreach/rsgmosim.jpeg
+  url: "https://www.instagram.com/p/DKy_MvTqi-6/"
+  summary: Post by the Spanish Regional Student Group in bioinformatics about my latest published work.
+  tags: ["general-public", "specialized-community"]
+
+- name: Interview and news publication about my recent work.
+  role: Interview
+  timeline: "May 2025"
+  image: /images/sections/outreach/nrg.jpeg
+  url: "https://delegacion.comunitatvalenciana.csic.es/el-csic-analiza-una-nueva-tecnica-de-secuenciacion-genica-que-ayuda-a-descifrar-enfermedades-como-el-cancer/"
+  summary: Interview about the relevance of my recent publication in Nature Reviews Genetics.
+  tags: ["general-public"]
+
+- name: 1st Assembly of the CSIC Connection on Microbiology.
+  role: Invited talk
+  timeline: "May 2025"
+  image: /images/sections/achievements/conmicro.jpg
+  url: "https://conexion-microbioma.csic.es/evento/conexion-microbioma-celebra-su-1a-asamblea-general/"
+  summary: Talk about the activities of the Junior Bioinformatics and Computational Biology Hub at CSIC.
+  tags: ["specialized-community"]
+
+- name: News post about my recent publication on long-reads.
+  role: News
+  timeline: "May 2025"
+  image: /images/sections/outreach/rsgtd.jpeg
+  url: "https://www.instagram.com/p/DIgskcxu7Fk/"
+  summary: Post by the Spanish Regional Student Group in bioinformatics about my latest published work.
+  tags: ["general-public", "specialized-community"]
+
+- name: 2nd Symposium for Spanish-Speaking Students in Bioinformatics and Computational Biology
+  role: Flash talk
+  timeline: "April 2025"
+  image: /images/sections/outreach/hispanohablantes.jpeg
+  url: "https://seh2bioinfo.netlify.app/"
+  summary: Flash talk about my project on transcript divergency in aging using long-reads sequencing data.
+  tags: ["specialized-community"]
+
+- name: 2nd Assembly of the CSIC Connection on Bioinformatics and Computational Biology (BCB Hub)
+  role : Invited talk and round table participant
+  timeline: "March 2025"
+  image: /images/sections/achievements/bcb.jpeg
+  url: "https://conexion-bcb.csic.es/evento/2a-asamblea-general/"
+  summary: Talk about the activities of the Junior Bioinformatics and Computational Biology Hub at CSIC.
+  tags: ["specialized-community"]
+
+- name: Seminar for the Spanish Society of Computational Biology.
+  role: Invited talk
+  timeline: "February 2025"
+  image: /images/sections/achievements/sebibc.jpeg
+  url: "https://www.youtube.com/watch?v=IVBjCTCs3SY&t=2219s"
+  summary: Seminar about my PhD work, finalist to the "Best PhD thesis".
+  tags: ["specialized-community"]
+
+- name: Researchers go to School
+  image: images/sections/outreach/2025_ResearchersGoToSchool_LuisAmigo.jpeg
+  role: Lecturer
+  timeline: "February 2025"
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://lanochedelainvestigacion.com/researchers-go-to-school/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Talk about women in science to senior high-school students at the Luis Amigó school in Paterna, Valencia.
+  tags: ["general-public"]
+
+- name: BCB Hub CSIC celebrates the day of women in science
+  image: images/sections/outreach/bcb11.jpeg
+  role: Invited talk
+  timeline: "February 2025"
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://www.youtube.com/watch?v=RqeqHk2V7Kw"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Introduce myself and my research topic.
+  tags: ["general-public"]
+
+- name: Day of women in science
+  image: images/sections/outreach/canals.jpeg
+  role: Lecturer
+  timeline: "February 2025"
+  url: "https://portal.edu.gva.es/ieslacanaldenavarres/"
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  # url: "https://lanochedelainvestigacion.com/researchers-go-to-school/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Talk about women in science to junior high-school students at the school in La Canal de Navarrés, Valencia.
+  tags: ["general-public"]
+
+- name: BCB Hub researcher introduction series
+  image: images/sections/outreach/bcbaun.jpeg
+  role: Invited talk
+  timeline: "January 2025"
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://www.youtube.com/watch?v=NsPFADgQLpo"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Introduce myself and my research topic.
+  tags: ["general-public"]
+
+- name: Long-read transcriptomics, workflow and applications
+  role: Workshop organizer
+  timeline: "October 2024"
+  image: images/sections/outreach/lrua.jpeg
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://www.lrua2024.se/wp-content/uploads/sites/57/2024/10/LRUA24_workshop-program_print.pdf"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Organization of a long-reads bioinformatics workshop, from library preparation to data analysis and interpretation.
+  tags: ["specialized-community"]
+
+- name: 1st National Congress of the Spanish Society for Bioinformatics and Computational Biology
+  role: Flash talk
+  timeline: "October 2024"
+  image: images/sections/outreach/flash.jpeg
+  url: "https://congresosebibc.com/"
+  summary: Flash talk about my published work MOSim, a bulk and single-cell multi-omics data simulator.
+  tags: ["specialized-community"]
+
+- name: Workshop on tools and services in computational biology and bioinformatics "CSIC4CSIC"
+  role: Lecturer
+  timeline: "June 2024"
+  image: images/sections/outreach/csic4csic.jpg
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://conexion-bcb.csic.es/taller-csic4csic-herramientas-y-servicios-bioinformaticos/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Lecture about the functional iso-transcriptomics pipeline (Bioinformatics).
+  tags: ["specialized-community"]
+
+- name: The 2024 Immcantantion Users Group Meeting.
+  role: Invited talk
+  timeline: "January 2024"
+  image: /images/sections/achievements/immcantantion.jpeg
+  url: "https://www.youtube.com/watch?v=MAunk99-EZs&t=9s"
+  summary: Talk about my published work on B-cells during aging and under anti-aging interventions.
+  tags: ["specialized-community"]
+
+- name: Early Career Seminars of the I2SysBio.
+  role: Invited talk
+  timeline: "November 2023"
+  image: /images/sections/achievements/ecs.jpg
+  url: "https://www.i2sysbio.es/communication/1569/"
+  summary: Talk about my published work MOSim, a bulk and single-cell multi-omics data simulator.
+  tags: ["specialized-community"]
+
+- name: How on earth did I get here, by RSG Spain.
+  role: Invited talk
+  timeline: "April 2023"
+  image: /images/sections/outreach/hondigh.jpeg
+  url: "https://www.rsg-spain.iscbsc.org/"
+  summary: Talk about my career and give tips and tricks to bioinformatics students of Valencia.
+  tags: ["specialized-community"]
+
+- name: Radio Show at A Punt station.
+  role: Invited talk
+  timeline: "April 2021"
+  summary: Talk about the brain drain.
+  tags: ["general-public"]
+
+- name: LP-101 Lecture Series
+  role: Lecturer and workshop organizer
+  timeline: "November 2019"
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #url: "https://www.linkedin.com/posts/mscadnlongtrec_researchcollaboration-longreadstranscriptomics-activity-7350403698805637120-x9ho"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Lecture introducing wet-lab aging scientists to the process of going from RNA extraction to count data (bioinformatics).
+  tags: ["specialized-community"]
+
+- name: Researcher profile, by Medical Genetics News
+  role: Interview
+  timeline: "June 2016"
+  url: "https://genotipia.com/genetica_medica_news/carolina-monzo-entrevista/#:~:text=Carolina%20Monz%C3%B3%3A%20%22%E2%80%9CEl%20mundo,en%20el%20que%20encajar%E2%80%9D%20%2D%20Genotipia"
+  summary: Interview about the difficulties of performing science and my latest work on fragile X syndrome.
+  tags: ["general-public"]
