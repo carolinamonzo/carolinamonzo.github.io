@@ -12,21 +12,23 @@ section:
 buttons:
 - name: All
   filter: "all"
+- name: Teaching
+  filter: "specialization-courses"
 - name: General Public
   filter: "general-public"
 - name: Specialized Community
   filter: "specialized-community"
 
 # your projects
-projects:
+outreachs:
 - name: Long-reads Bioinformatics Summer School
   role: Lecturer and Organizer
   timeline: "July 2025"
   image: images/sections/outreach/summer.jpeg
   #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "https://www.earlham.ac.uk/events/long-reads-bioinformatics-summer-school"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Introductiory session on study design, sequencing technologies and ground truth data.
-  tags: ["specialized-community"]
+  summary: Introductory session on study design, sequencing technologies and ground truth data.
+  tags: ["specialized-community", "specialization-courses"]
 
 - name: News post about my recent publication on multi-omics.
   role: News
@@ -128,7 +130,7 @@ projects:
   #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "https://www.lrua2024.se/wp-content/uploads/sites/57/2024/10/LRUA24_workshop-program_print.pdf"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Organization of a long-reads bioinformatics workshop, from library preparation to data analysis and interpretation.
-  tags: ["specialized-community"]
+  tags: ["specialized-community", "specialization-courses"]
 
 - name: 1st National Congress of the Spanish Society for Bioinformatics and Computational Biology
   role: Flash talk
@@ -145,7 +147,7 @@ projects:
   #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   url: "https://conexion-bcb.csic.es/taller-csic4csic-herramientas-y-servicios-bioinformaticos/"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Lecture about the functional iso-transcriptomics pipeline (Bioinformatics).
-  tags: ["specialized-community"]
+  tags: ["specialized-community", "specialization-courses"]
 
 - name: The 2024 Immcantantion Users Group Meeting.
   role: Invited talk
@@ -183,7 +185,7 @@ projects:
   #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: "https://www.linkedin.com/posts/mscadnlongtrec_researchcollaboration-longreadstranscriptomics-activity-7350403698805637120-x9ho"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Lecture introducing wet-lab aging scientists to the process of going from RNA extraction to count data (bioinformatics).
-  tags: ["specialized-community"]
+  tags: ["specialized-community", "specialization-courses"]
 
 - name: Researcher profile, by Medical Genetics News
   role: Interview

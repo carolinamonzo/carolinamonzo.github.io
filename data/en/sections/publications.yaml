@@ -28,17 +28,29 @@ publications:
     url: https://www.nature.com/articles/s43587-025-00876-4
   authors:
   - name: Gkioni, L
+    url: https://www.nature.com/articles/s43587-025-00876-4
   - name: Nespital, T
+    url: https://www.nature.com/articles/s43587-025-00876-4
   - name: Baghdadi, M
+    url: https://www.nature.com/articles/s43587-025-00876-4
   - name: Monzó, C
+    url: https://www.nature.com/articles/s43587-025-00876-4
   - name: Bali, J
+    url: https://www.nature.com/articles/s43587-025-00876-4
   - name: Nassr, T
+    url: https://www.nature.com/articles/s43587-025-00876-4
   - name: Cremer, AL
+    url: https://www.nature.com/articles/s43587-025-00876-4
   - name: Beyer, A
+    url: https://www.nature.com/articles/s43587-025-00876-4
   - name: Deelen, J
+    url: https://www.nature.com/articles/s43587-025-00876-4
   - name: Backes, H
+    url: https://www.nature.com/articles/s43587-025-00876-4
   - name: Grönke, S
+    url: https://www.nature.com/articles/s43587-025-00876-4
   - name: Partridge, L
+    url: https://www.nature.com/articles/s43587-025-00876-4
   paper:
     summary: Suppression of the insulin–IGF–mTORC1–Ras network ameliorates aging in animals. Many drugs have targets in the network because of its roles in cancer and metabolic disease and are candidates for repurposing as geroprotectors. Rapamycin, an established geroprotective drug, blocks mTORC1 signaling, and trametinib inhibits the Ras–MEK–ERK pathway. In this study, we assessed survival and health of male and female mice treated with trametinib, rapamycin or their combination. We show here that trametinib treatment extended lifespan in both sexes and that its combination with rapamycin was additive. Combination treatment reduced liver tumors in both sexes and spleen tumors in male mice, blocked the age-related increase in brain glucose uptake and strongly reduced inflammation in brain, kidney, spleen and muscle and circulating levels of pro-inflammatory cytokines. We conclude that trametinib is a geroprotector in mice and that its combination with rapamycin is more effective than either drug alone, making the combination a candidate for repurposing as a gerotherapy in humans.
     url: https://www.nature.com/articles/s43587-025-00876-4
@@ -52,8 +64,11 @@ publications:
     url: https://www.nature.com/articles/s41576-025-00828-z
   authors:
   - name: Monzó, C
+    url: https://www.nature.com/articles/s41576-025-00828-z
   - name: Liu, T
+    url: https://www.nature.com/articles/s41576-025-00828-z
   - name: Conesa, A
+    url: https://www.nature.com/articles/s41576-025-00828-z
   paper:
     summary: Transcriptome sequencing revolutionized the analysis of gene expression, providing an unbiased approach to gene detection and quantification that enabled the discovery of novel isoforms, alternative splicing events and fusion transcripts. However, although short-read sequencing technologies have surpassed the limited dynamic range of previous technologies such as microarrays, they have limitations, for example, in resolving full-length transcripts and complex isoforms. Over the past 5 years, long-read sequencing technologies have matured considerably, with improvements in instrumentation and analytical methods, enabling their application to RNA sequencing (RNA-seq). Benchmarking studies are beginning to identify the strengths and limitations of long-read RNA-seq, although there remains a need for comprehensive resources to guide newcomers through the intricacies of this approach. In this Review, we provide a comprehensive overview of the long-read RNA-seq workflow, from library preparation and sequencing challenges to core data processing, downstream analyses and emerging developments. We present an extensive inventory of experimental and analytical methods and discuss current challenges and prospects.
     url: https://www.nature.com/articles/s41576-025-00828-z
@@ -67,11 +82,17 @@ publications:
     url: https://academic.oup.com/bib/article/26/2/bbaf110/8089935
   authors:
   - name: Monzó, C
+    url: https://academic.oup.com/bib/article/26/2/bbaf110/8089935
   - name: Aguerralde-Martin, M
+    url: https://academic.oup.com/bib/article/26/2/bbaf110/8089935
   - name: Martínez-Mira, C
+    url: https://academic.oup.com/bib/article/26/2/bbaf110/8089935
   - name: Arzalluz-Luque, A
+    url: https://academic.oup.com/bib/article/26/2/bbaf110/8089935
   - name: Conesa, A
+    url: https://academic.oup.com/bib/article/26/2/bbaf110/8089935
   - name: Tarazona, S
+    url: https://academic.oup.com/bib/article/26/2/bbaf110/8089935
   paper:
     summary: As multi-omics sequencing technologies advance, the need for simulation tools capable of generating realistic and diverse (bulk and single-cell) multi-omics datasets for method testing and benchmarking becomes increasingly important. We present MOSim, an R package that simulates both bulk (via mosim function) and single-cell (via sc_mosim function) multi-omics data. The mosim function generates bulk transcriptomics data (RNA-seq) and additional regulatory omics layers (ATAC-seq, miRNA-seq, ChIP-seq, Methyl-seq, and transcription factors), while sc_mosim simulates single-cell transcriptomics data (scRNA-seq) with scATAC-seq and transcription factors as regulatory layers. The tool supports various experimental designs, including simulation of gene co-expression patterns, biological replicates, and differential expression between conditions. MOSim enables users to generate quantification matrices for each simulated omics data type, capturing the heterogeneity and complexity of bulk and single-cell multi-omics datasets. Furthermore, MOSim provides differentially abundant features within each omics layer and elucidates the active regulatory relationships between regulatory omics and gene expression data at both bulk and single-cell levels. By leveraging MOSim, researchers will be able to generate realistic and customizable bulk and single-cell multi-omics datasets to benchmark and validate analytical methods specifically designed for the integrative analysis of diverse regulatory omics data.
   categories: ["First author"]
@@ -84,9 +105,13 @@ publications:
     url: https://genome.cshlp.org/content/35/4/987
   authors:
   - name: Keil, N
+    url: https://genome.cshlp.org/content/35/4/987
   - name: Monzó, C
+    url: https://genome.cshlp.org/content/35/4/987
   - name: McIntyre, L
+    url: https://genome.cshlp.org/content/35/4/987
   - name: Conesa, A
+    url: https://genome.cshlp.org/content/35/4/987
   paper:
     summary: SQANTI-reads leverages SQANTI3, a tool for the analysis of the quality of transcript models, to develop a read-level quality control framework for replicated long-read RNA-seq experiments. The number and distribution of reads, as well as the number and distribution of unique junction chains (transcript splicing patterns), in SQANTI3 structural categories are informative of raw data quality. Multisample visualizations of QC metrics are presented by experimental design factors to identify outliers. We introduce new metrics for (1) the identification of potentially under-annotated genes and putative novel transcripts and for (2) quantifying variation in junction donors and acceptors. We applied SQANTI-reads to two different data sets, a Drosophila developmental experiment and a multiplatform data set from the LRGASP project and demonstrate that the tool effectively reveals the impact of read coverage on data quality, and readily identifies strong and weak splicing sites.
     url: https://genome.cshlp.org/content/35/4/987
@@ -100,8 +125,11 @@ publications:
     url: https://genome.cshlp.org/content/35/4/583
   authors:
   - name: Monzó, C
+    url: https://genome.cshlp.org/content/35/4/583
   - name: Frankish, A
+    url: https://genome.cshlp.org/content/35/4/583
   - name: Conesa, A
+    url: https://genome.cshlp.org/content/35/4/583
   paper:
     summary: Long-read sequencing (LRS) technologies have revolutionized transcriptomic research by enabling the comprehensive sequencing of full-length transcripts. Using these technologies, researchers have reported tens of thousands of novel transcripts, even in well-annotated genomes, while developing new algorithms and experimental approaches to handle the noisy data. The Long-read RNA-seq Genome Annotation Assessment Project community effort benchmarked LRS methods in transcriptomics and validated many novel, lowly expressed, often times sample-specific transcripts identified by long reads. These molecules represent deviations of the major transcriptional program that were overlooked by short-read sequencing methods but are now captured by the full-length, single-molecule approach. This Perspective discusses the challenges and opportunities associated with LRS’ capacity to unravel this fraction of the transcriptome, in terms of both transcriptome biology and genome annotation. For transcriptome biology, we need to develop novel experimental and computational methods to effectively differentiate technology errors from rare but real molecules. For genome annotation, we must agree on the strategy to capture molecular variability while still defining reference annotations that are useful for the genomics community.
     url: https://genome.cshlp.org/content/35/4/583
@@ -115,11 +143,17 @@ publications:
     url: https://www.sciencedirect.com/science/article/pii/S2212877824000334
   authors:
   - name: Baghdadi, M
+    url: https://www.sciencedirect.com/science/article/pii/S2212877824000334
   - name: Nespital, T
+    url: https://www.sciencedirect.com/science/article/pii/S2212877824000334
   - name: Monzó, C
+    url: https://www.sciencedirect.com/science/article/pii/S2212877824000334
   - name: Deelen, J
+    url: https://www.sciencedirect.com/science/article/pii/S2212877824000334
   - name: Grönke, S
+    url: https://www.sciencedirect.com/science/article/pii/S2212877824000334
   - name: Partridge, L
+    url: https://www.sciencedirect.com/science/article/pii/S2212877824000334
   paper:
     summary: Rapamycin, a powerful geroprotective drug, can have detrimental effects when administered chronically. We determined whether intermittent treatment of mice can reduce negative effects while maintaining benefits of chronic treatment. From 6 months of age, male and female C3B6F1 hybrid mice were either continuously fed with 42 mg/kg rapamycin, or intermittently fed by alternating weekly feeding of 42 mg/kg rapamycin food with weekly control feeding. Survival of these mice compared to control animals was measured. Furthermore, longitudinal phenotyping including metabolic (body composition, GTT, ITT, indirect calorimetry) and fitness phenotypes (treadmil, rotarod, electrocardiography and open field) was performed. Organ specific pathology was assessed at 24 months of age. Chronic rapamycin treatment induced glucose intolerance, which was partially ameliorated by intermittent treatment. Chronic and intermittent rapamycin treatments increased lifespan equally in males, while in females chronic treatment resulted in slightly higher survival. The two treatments had equivalent effects on testicular degeneration, heart fibrosis and liver lipidosis. In males, the two treatment regimes led to a similar increase in motor coordination, heart rate and Q-T interval, and reduction in spleen weight, while in females, they equally reduced BAT inflammation and spleen weight and maintained heart rate and Q-T interval. However, other health parameters, including age related pathologies, were better prevented by continuous treatment. Intermittent rapamycin treatment is effective in prolonging lifespan and reduces some side-effects of chronic treatment, but chronic treatment is more beneficial to healthspan.
     url: https://www.sciencedirect.com/science/article/pii/S2212877824000334
@@ -133,11 +167,17 @@ publications:
     url: https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00733-7
   authors:
   - name: Monzó, C
+    url: https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00733-7
   - name: Gkioni, L
+    url: https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00733-7
   - name: Beyer, A
+    url: https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00733-7
   - name: Valenzano, D
+    url: https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00733-7
   - name: Grönke, S
+    url: https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00733-7
   - name: Partridge, L
+    url: https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00733-7
   paper:
     summary: Aging impairs the capacity to respond to novel antigens, reducing immune protection against pathogens and vaccine efficacy. Dietary restriction (DR) extends life- and health span in diverse animals. However, little is known about the capacity of DR to combat the decline in immune function. Here, we study the changes in B cell receptor (BCR) repertoire during aging in DR and control mice. By sequencing the variable region of the BCR heavy chain in the spleen, we show that DR preserves diversity and attenuates the increase in clonal expansions throughout aging. Remarkably, mice starting DR in mid-life have repertoire diversity and clonal expansion rates indistinguishable from chronic DR mice. In contrast, in the intestine, these traits are unaffected by either age or DR. Reduced within-individual B cell repertoire diversity and increased clonal expansions are correlated with higher morbidity, suggesting a potential contribution of B cell repertoire dynamics to health during aging.
     url: https://www.cell.com/cell-reports/fulltext/S2211-1247(23)00733-7
@@ -151,18 +191,31 @@ publications:
     url: https://journals.lww.com/transplantjournal/fulltext/2023/02000/dynamics_of_human_anelloviruses_in_plasma_and.34.aspx
   authors:
   - name: Forqué, L
+    url: https://journals.lww.com/transplantjournal/fulltext/2023/02000/dynamics_of_human_anelloviruses_in_plasma_and.34.aspx
   - name: Fernández-Ruiz, M
+    url: https://journals.lww.com/transplantjournal/fulltext/2023/02000/dynamics_of_human_anelloviruses_in_plasma_and.34.aspx
   - name: Albert, E
+    url: https://journals.lww.com/transplantjournal/fulltext/2023/02000/dynamics_of_human_anelloviruses_in_plasma_and.34.aspx
   - name: Giménez, E
+    url: https://journals.lww.com/transplantjournal/fulltext/2023/02000/dynamics_of_human_anelloviruses_in_plasma_and.34.aspx
   - name: Monzó, C
+    url: https://journals.lww.com/transplantjournal/fulltext/2023/02000/dynamics_of_human_anelloviruses_in_plasma_and.34.aspx
   - name: Chaves, J
+    url: https://journals.lww.com/transplantjournal/fulltext/2023/02000/dynamics_of_human_anelloviruses_in_plasma_and.34.aspx
   - name: Redondo, N
+    url: https://journals.lww.com/transplantjournal/fulltext/2023/02000/dynamics_of_human_anelloviruses_in_plasma_and.34.aspx
   - name: Rodríguez-Goncer, I
+    url: https://journals.lww.com/transplantjournal/fulltext/2023/02000/dynamics_of_human_anelloviruses_in_plasma_and.34.aspx
   - name: Ruiz-Merlo, T
+    url: https://journals.lww.com/transplantjournal/fulltext/2023/02000/dynamics_of_human_anelloviruses_in_plasma_and.34.aspx
   - name: Parra, P
+    url: https://journals.lww.com/transplantjournal/fulltext/2023/02000/dynamics_of_human_anelloviruses_in_plasma_and.34.aspx
   - name: Andrés, A
+    url: https://journals.lww.com/transplantjournal/fulltext/2023/02000/dynamics_of_human_anelloviruses_in_plasma_and.34.aspx
   - name: Aguado, JM
+    url: https://journals.lww.com/transplantjournal/fulltext/2023/02000/dynamics_of_human_anelloviruses_in_plasma_and.34.aspx
   - name: Navarro, D
+    url: https://journals.lww.com/transplantjournal/fulltext/2023/02000/dynamics_of_human_anelloviruses_in_plasma_and.34.aspx
   paper:
     summary: Torque teno virus, the major member of the genus Alphatorquevirus , is an emerging biomarker of the net state of immunosuppression after kidney transplantation. Genetic diversity constitutes a main feature of the Anelloviridae family, although its posttransplant dynamics and clinical correlates are largely unknown. The relative abundance of Alphatorquevirus , Betatorquevirus , and Gammatorquevirus genera was investigated by high-throughput sequencing in plasma specimens obtained at various points during the first posttransplant year (n = 91 recipients). Total loads of all members of the Anelloviridae family were also quantified by an "in-house" polymerase chain reaction assay targeting conserved DNA sequences (n = 195 recipients). In addition to viral kinetics, clinical study outcomes included serious infection, immunosuppression-related adverse event (opportunistic infection and cancer)' and acute rejection. Alphatorquevirus DNA was detected in all patients at every point, with an increase from pretransplantation to month 1. A variable proportion of recipients had detectable Betatorquevirus and Gammatorquevirus at lower frequencies. At least 1 change in the predominant genus (mainly as early transition to Alphatorquevirus predominance) was shown in 35.6% of evaluable patients. Total anelloviruses DNA levels increased from baseline to month 1, to peak by month 3 and decrease thereafter, and were higher in patients treated with T-cell depleting agents. There was a significant albeit weak-to-moderate correlation between total anelloviruses and TTV DNA levels. No associations were found between the predominant Anelloviridae genus or total anelloviruses DNA levels and clinical outcomes. Our study provides novel insight into the evolution of the anellome after kidney transplantation.
     url: https://journals.lww.com/transplantjournal/fulltext/2023/02000/dynamics_of_human_anelloviruses_in_plasma_and.34.aspx
@@ -176,14 +229,23 @@ publications:
     url: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-08067-2
   authors:
   - name: Fuentes-Trillo, A
+    url: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-08067-2
   - name: Monzó, C
+    url: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-08067-2
   - name: Manzano, I
+    url: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-08067-2
   - name: Santiso-Bellón, C
+    url: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-08067-2
   - name: da Silva, J
+    url: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-08067-2
   - name: Gozalbo-Rovira, R
+    url: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-08067-2
   - name: García-García, AB
+    url: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-08067-2
   - name: Rodríguez-Díaz, J
+    url: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-08067-2
   - name: Chaves, FJ
+    url: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-08067-2
   paper:
     summary: Genome assembly of viruses with high mutation rates, such as Norovirus and other RNA viruses, or from metagenome samples, poses a challenge for the scientific community due to the coexistence of several viral quasispecies and strains. Furthermore, there is no standard method for obtaining whole-genome sequences in non-related patients. After polyA RNA isolation and sequencing in eight patients with acute gastroenteritis, we evaluated two de Bruijn graph assemblers (SPAdes and MEGAHIT), combined with four different and common pre-assembly strategies, and compared those yielding whole genome Norovirus contigs. Reference-genome guided strategies with both host and target virus did not present any advantages compared to the assembly of non-filtered data in the case of SPAdes, and in the case of MEGAHIT, only host genome filtering presented improvements. MEGAHIT performed better than SPAdes in most samples, reaching complete genome sequences in most of them for all the strategies employed. Read binning with CD-HIT improved assembly when paired with different analysis strategies, and more notably in the case of SPAdes. Not all metagenome assemblies are equal and the choice in the workflow depends on the species studied and the prior steps to analysis. We may need different approaches even for samples treated equally due to the presence of high intra host variability. We tested and compared different workflows for the accurate assembly of Norovirus genomes and established their assembly capacities for this purpose.
     url: https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-08067-2
@@ -197,15 +259,25 @@ publications:
     url: https://onlinelibrary.wiley.com/doi/abs/10.1002/jmv.26661
   authors:
   - name: Monzó, C
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/jmv.26661
   - name: Giménez, E
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/jmv.26661
   - name: Albert, E
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/jmv.26661
   - name: Fuentes-Trillo, A
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/jmv.26661
   - name: Seda, E
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/jmv.26661
   - name: Piñana, JL
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/jmv.26661
   - name: Hernández Boluda, JC
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/jmv.26661
   - name: Solano, C
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/jmv.26661
   - name: Chaves, FJ
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/jmv.26661
   - name: Navarro, D
+    url: https://onlinelibrary.wiley.com/doi/abs/10.1002/jmv.26661
   paper:
     summary: Monitoring of alphatorquevirus (torque teno virus [TTV]) DNA in plasma may prove to be useful to assess the net state of immune competence following allogeneic hematopoietic stem cell transplantation (allo-HSCT). There are scarce data published on the prevalence of beta (torque teno mini virus [TTMV]) and gammatorqueviruses (torque teno midi virus [TTMDV]) and, in particular, on the dynamics of anelloviruses in allo-HSCT patients. Twenty-five allo-HSCT recipients with available plasma specimens obtained before conditioning and after engraftment were included. Degenerated primers targeting a highly conserved genomic sequence across all anelloviruses were designed for genomic amplification and high-throughput sequencing. Co-detection of TTV, TTMV, and TTMDV both in pre-transplant and post-engraftment plasma specimens was documented in more than two-thirds of patients. The use of quantitative real-time polymerase chain reaction (PCR) assays targeting TTMV and TTMDV in addition to TTV may add value to TTV-specific PCR assays in the inference of the net state of immunosuppresion or immune competence in this clinical setting.
     url: https://onlinelibrary.wiley.com/doi/abs/10.1002/jmv.26661
@@ -219,14 +291,23 @@ publications:
     url: https://www.mdpi.com/2073-4425/12/8/1197
   authors:
   - name: Rodríguez-López, R
+    url: https://www.mdpi.com/2073-4425/12/8/1197
   - name: Gimeno-Ferrer, F
+    url: https://www.mdpi.com/2073-4425/12/8/1197
   - name: Montesinos, E
+    url: https://www.mdpi.com/2073-4425/12/8/1197
   - name: Ferrer-Bolufer, I
+    url: https://www.mdpi.com/2073-4425/12/8/1197
   - name: Guzmán Luján, C
+    url: https://www.mdpi.com/2073-4425/12/8/1197
   - name: Albuquerque, D
+    url: https://www.mdpi.com/2073-4425/12/8/1197
   - name: Monzó, C
+    url: https://www.mdpi.com/2073-4425/12/8/1197
   - name: Ballesteros, V
+    url: https://www.mdpi.com/2073-4425/12/8/1197
   - name: Pérez-Gramunt, MA
+    url: https://www.mdpi.com/2073-4425/12/8/1197
   paper:
     summary: Jacobsen syndrome or JBS (OMIM 147791) is a contiguous gene syndrome caused by a deletion affecting the terminal q region of chromosome 11. The phenotype of patients with JBS is a specific syndromic phenotype predominately associated with hematological alterations. Complete and partial JBS are differentiated depending on which functional and causal genes are haploinsufficient in the patient. We describe the case of a 6-year-old Bulgarian boy in which it was possible to identify all of the major signs and symptoms listed by the Online Mendelian Inheritance in Man (OMIM) catalog using the Human Phenotype Ontology (HPO). Extensive blood and marrow tests revealed the existence of thrombocytopenia and leucopenia, specifically due to low levels of T and B cells and low levels of IgM. Genetic analysis using whole-genome single nucleotide polymorphisms (SNPs)/copy number variations (CNVs) microarray hybridization confirmed that the patient had the deletion arr[hg19]11q24.3q25(128,137,532–134,938,470)x1 in heterozygosis. This alteration was considered causal of partial JBS because the essential BSX and NRGN genes were not included, though 30 of the 96 HPO identifiers associated with this OMIM were identified in the patient. The deletion of the FLI-1, ETS1, JAM3 and THYN1 genes was considered to be directly associated with the immunodeficiency exhibited by the patient. Although immunodeficiency is widely accepted as a major sign of JBS, only constipation, bone marrow hypocellularity and recurrent respiratory infections have been included in the HPO as terms used to refer to the immunological defects in JBS. Exhaustive functional analysis and individual monitoring are required and should be mandatory for these patients.
     url: https://www.mdpi.com/2073-4425/12/8/1197
@@ -240,14 +321,23 @@ publications:
     url: https://journals.asm.org/doi/10.1128/mra.00641-19
   authors:
   - name: Monzó, C
+    url: https://journals.asm.org/doi/10.1128/mra.00641-19
   - name: Santiso-Bellón, C
+    url: https://journals.asm.org/doi/10.1128/mra.00641-19
   - name: Fuentes-Trillo, A
+    url: https://journals.asm.org/doi/10.1128/mra.00641-19
   - name: Vila-Vicent, S
+    url: https://journals.asm.org/doi/10.1128/mra.00641-19
   - name: da Silva, J
+    url: https://journals.asm.org/doi/10.1128/mra.00641-19
   - name: Gozalbo-Rovira, R
+    url: https://journals.asm.org/doi/10.1128/mra.00641-19
   - name: Buesa, J
+    url: https://journals.asm.org/doi/10.1128/mra.00641-19
   - name: Chaves, FJ
+    url: https://journals.asm.org/doi/10.1128/mra.00641-19
   - name: Rodríguez-Díaz, J
+    url: https://journals.asm.org/doi/10.1128/mra.00641-19
   paper:
     summary: Human noroviruses are responsible for most nonbacterial acute gastroenteritis cases. The GII.2, GII.4, and GII.17 genotypes of human noroviruses have recently arisen as the most frequent genotypes found in humans worldwide. We report here seven nearly complete genomes of these genotypes from patients with acute gastroenteritis in Valencia, Spain.
     url: https://journals.asm.org/doi/10.1128/mra.00641-19
@@ -261,15 +351,25 @@ publications:
     url: https://genotipia.com/revista_gm/gmgcg13-gimeno-ferrer/
   authors:
   - name: Gimeno-Ferrer, F
+    url: https://genotipia.com/revista_gm/gmgcg13-gimeno-ferrer/
   - name: Albuquerque, D
+    url: https://genotipia.com/revista_gm/gmgcg13-gimeno-ferrer/
   - name: Capataz Ledesma, M
+    url: https://genotipia.com/revista_gm/gmgcg13-gimeno-ferrer/
   - name: Monzó, C
+    url: https://genotipia.com/revista_gm/gmgcg13-gimeno-ferrer/
   - name: Gervasini, G
+    url: https://genotipia.com/revista_gm/gmgcg13-gimeno-ferrer/
   - name: Barros Angueira, F
+    url: https://genotipia.com/revista_gm/gmgcg13-gimeno-ferrer/
   - name: Carbonell, JM
+    url: https://genotipia.com/revista_gm/gmgcg13-gimeno-ferrer/
   - name: Marcaida Benito, G
+    url: https://genotipia.com/revista_gm/gmgcg13-gimeno-ferrer/
   - name: Rodríguez-López, R
+    url: https://genotipia.com/revista_gm/gmgcg13-gimeno-ferrer/
   - name: Galán Gómez, E
+    url: https://genotipia.com/revista_gm/gmgcg13-gimeno-ferrer/
   paper:
     summary: Since genomic SNPs/CNVs arrays were implemented as a diagnostic tool in clinical settings to search for the cause of idiopathic intellectual disability, chromosomal imbalances have been precisely described as being the cause of many new syndromes, especially when they are associated with multiple congenital anomalies and/or dimorphism. High-density SNPs/CNVs microarray was used to delineate genotype-phenotype correlation in a 2.5 year-old girl who carried a mosaic characterized by a predominant cell line representing 92% which carried a duplication of 12.5 Mb of the 18p11.32p11.21 chromosomal region (chr18:12602631_telomeric) and a deletion and a deletion of 20.3 Mb of the 18q21.32q23 chromosomal region (chr18:57691236_telomeric) and a second minor cell line (8%) presented a ring chromosome, carrying the deletion of 20.3 Mb of the 18q21.32q23 chromosomal region. The microarray analysis identified the genetic causes for the specific phenotype of the patient, whose more evident signs and symptoms were mainly associated to the genomic regions duplicated and in haploinsufficiency. Although the conventional karyotype is currently considered a diagnostic technique of support or second line, it was key to establish the etiology of the alteration that the patient carried. Its performance allowed the correct interpretation of the result of the array, whose characterization facilitated its correlation with the phenotypic features of the patient. From both tests, it was possible to conclude the existence of ring chromosome 18, as well as the percentage of the mosaic lines. The deleterious capabilities of the affected OMIM and dominant genes were evaluated along her period of life. A rigorous clinical following up in that patient included valorous phenotypic data to the array data bases, and will make less difficult to hypothesize about prognosis in other individuals who carry overlapping similar high risk genetic alterations.
     url: https://genotipia.com/revista_gm/gmgcg13-gimeno-ferrer/
@@ -283,15 +383,25 @@ publications:
     url: https://journals.asm.org/doi/10.1128/mra.01376-18
   authors:
   - name: Santiso-Bellón, C
+    url: https://journals.asm.org/doi/10.1128/mra.01376-18
   - name: Fuentes-Trillo, A
+    url: https://journals.asm.org/doi/10.1128/mra.01376-18
   - name: da Silva, J
+    url: https://journals.asm.org/doi/10.1128/mra.01376-18
   - name: Monzó, C
+    url: https://journals.asm.org/doi/10.1128/mra.01376-18
   - name: Vila-Vicent, S
+    url: https://journals.asm.org/doi/10.1128/mra.01376-18
   - name: Gozalbo-Rovira, R
+    url: https://journals.asm.org/doi/10.1128/mra.01376-18
   - name: Buesa, J
+    url: https://journals.asm.org/doi/10.1128/mra.01376-18
   - name: Chaves, FJ
+    url: https://journals.asm.org/doi/10.1128/mra.01376-18
   - name: Pereira Miagostovich, M
+    url: https://journals.asm.org/doi/10.1128/mra.01376-18
   - name: Rodríguez-Díaz, J
+    url: https://journals.asm.org/doi/10.1128/mra.01376-18
   paper:
     summary: Human noroviruses are the most common cause of nonbacterial acute gastroenteritis worldwide. We report here the nearly complete genome sequence (7,551 nucleotides) of a human norovirus GII.P17-GII.17 strain detected in July 2015 in the stool sample from an adult with acute gastroenteritis in Brazil.
     url: https://journals.asm.org/doi/10.1128/mra.01376-18
@@ -305,11 +415,17 @@ publications:
     url: https://www.academia.edu/43257170/GEN%C3%93MICA_EN_MEDICINA
   authors:
   - name: Monzó, C
+    url: https://www.academia.edu/43257170/GEN%C3%93MICA_EN_MEDICINA
   - name: Juanes, JM
+    url: https://www.academia.edu/43257170/GEN%C3%93MICA_EN_MEDICINA
   - name: Marín-García, P
+    url: https://www.academia.edu/43257170/GEN%C3%93MICA_EN_MEDICINA
   - name: Chaves, FJ
+    url: https://www.academia.edu/43257170/GEN%C3%93MICA_EN_MEDICINA
   - name: Arnau, V
+    url: https://www.academia.edu/43257170/GEN%C3%93MICA_EN_MEDICINA
   - name: García-García, AB
+    url: https://www.academia.edu/43257170/GEN%C3%93MICA_EN_MEDICINA
   paper:
     summary: The first step in any genetic analysis is DNA collection and processing. Each type of genetic analysis requires specific processing, so the path from DNA to data is not always the same, making it essential to provide appropriate material for each analysis. This chapter reviews the steps from DNA collection to the raw data that will enable subsequent clinical interpretation.
     url: https://www.academia.edu/43257170/GEN%C3%93MICA_EN_MEDICINA
@@ -323,13 +439,21 @@ publications:
     url: https://mansapublishers.com/ijcr/article/view/403
   authors:
   - name: Monzó, C
+    url: https://mansapublishers.com/ijcr/article/view/403
   - name: Gimeno-Ferrer, F
+    url: https://mansapublishers.com/ijcr/article/view/403
   - name: Ferrer García, JC
+    url: https://mansapublishers.com/ijcr/article/view/403
   - name: Amadoz, A
+    url: https://mansapublishers.com/ijcr/article/view/403
   - name: Albuquerque, D
+    url: https://mansapublishers.com/ijcr/article/view/403
   - name: Barros Angueira, F
+    url: https://mansapublishers.com/ijcr/article/view/403
   - name: Marcaida, G
+    url: https://mansapublishers.com/ijcr/article/view/403
   - name: Rodríguez-López, R
+    url: https://mansapublishers.com/ijcr/article/view/403
   paper:
     summary: Reduced genetic variability in isolated populations promotes the prevalence of long contiguous stretches of homozygosity (LCSH) that may carry deleterious mutations, manifesting recessive syndromes such as Alström syndrome (OMIM 203800), caused principally by mutations in exons 8, 10, and 16 and deletions/insertions along the ALMS1 gene. Here, Sanger sequencing of these exons and whole-genome copy-number variants/single-nucleotide polymorphisms (SNPs) microarray were used to characterize ALMS1 gene in a 19-year-old Pakistani female with Alström syndrome. Sequencing did not reveal pathogenic alterations but described a set of homozygous polymorphisms. The microarray revealed these SNPs were included in an 8.24 Mb LCSH in 2p12.2p13 that contained a homozygous deletion including exons 13-16 of ALMS1 gene. Therefore, reduced genetic variability in Pakistani population enhanced the inheritance of the homozygous deletion causing Alström syndrome. The comparison of the deletion with known deletions spanning exons 13-16, described on Middle Eastern patients, suggested a fixation of the deletion in a specific haplotype.
     url: https://mansapublishers.com/ijcr/article/view/403
@@ -343,18 +467,31 @@ publications:
     url: https://www.elsevier.es/es-revista-revista-del-laboratorio-clinico-282-articulo-different-distribution-common-hfe-variants-S1888400817300223
   authors:
   - name: Monzó, C
+    url: https://www.elsevier.es/es-revista-revista-del-laboratorio-clinico-282-articulo-different-distribution-common-hfe-variants-S1888400817300223
   - name: Ortiz, B
+    url: https://www.elsevier.es/es-revista-revista-del-laboratorio-clinico-282-articulo-different-distribution-common-hfe-variants-S1888400817300223
   - name: Tomás, C
+    url: https://www.elsevier.es/es-revista-revista-del-laboratorio-clinico-282-articulo-different-distribution-common-hfe-variants-S1888400817300223
   - name: Collado, C
+    url: https://www.elsevier.es/es-revista-revista-del-laboratorio-clinico-282-articulo-different-distribution-common-hfe-variants-S1888400817300223
   - name: González-Muñoz, C
+    url: https://www.elsevier.es/es-revista-revista-del-laboratorio-clinico-282-articulo-different-distribution-common-hfe-variants-S1888400817300223
   - name: Guzmán, C
+    url: https://www.elsevier.es/es-revista-revista-del-laboratorio-clinico-282-articulo-different-distribution-common-hfe-variants-S1888400817300223
   - name: Valverde, V
+    url: https://www.elsevier.es/es-revista-revista-del-laboratorio-clinico-282-articulo-different-distribution-common-hfe-variants-S1888400817300223
   - name: Miguel-Cabo, M
+    url: https://www.elsevier.es/es-revista-revista-del-laboratorio-clinico-282-articulo-different-distribution-common-hfe-variants-S1888400817300223
   - name: Monzó, V
+    url: https://www.elsevier.es/es-revista-revista-del-laboratorio-clinico-282-articulo-different-distribution-common-hfe-variants-S1888400817300223
   - name: de Lamo, M
+    url: https://www.elsevier.es/es-revista-revista-del-laboratorio-clinico-282-articulo-different-distribution-common-hfe-variants-S1888400817300223
   - name: Marcaida, G
+    url: https://www.elsevier.es/es-revista-revista-del-laboratorio-clinico-282-articulo-different-distribution-common-hfe-variants-S1888400817300223
   - name: Gervasini, G
+    url: https://www.elsevier.es/es-revista-revista-del-laboratorio-clinico-282-articulo-different-distribution-common-hfe-variants-S1888400817300223
   - name: Rodríguez-López, R
+    url: https://www.elsevier.es/es-revista-revista-del-laboratorio-clinico-282-articulo-different-distribution-common-hfe-variants-S1888400817300223
   paper:
     summary: Hereditary hemochromatosis is a disease responsible for excess blood iron. The hemochromatosis gene has two predominant variants, H63D and C282Y single nucleotide polymorphisms. Our study aims to analyze the diagnostic utility of genotyping the 63 and 282 loci, and examine the geographic distribution of these mutations in Spain. Genotyping was performed on 94 healthy control individuals and 324 patients suspected of hereditary hemochromatosis, and also biochemical test to 313 individuals in the patients group. The comparison of allelic frequencies between East and West of Spain, as well as other countries located at a similar longitude, evidenced a west-east distribution gradient of the C282Y allele. In addition, heterogeneous distribution of the H63D mutation in Spain was observed. Patients who carried the 282YY genotype showed significantly higher biochemical parameters (ferritin>300μg/L, Fe>180μg/L, IST>60%, UIBC>355μg/L and CTFH>370μg/dL), which confirmed the correlation between the mutated homozygous genotype and the associated hemochromatosis phenotype. Our results strengthen the importance of executing genetic tests to increase the efficiency of hereditary hemochromatosis diagnosis, which reveal an interesting variability among geographical regions.
     url: https://www.elsevier.es/es-revista-revista-del-laboratorio-clinico-282-articulo-different-distribution-common-hfe-variants-S1888400817300223
@@ -368,15 +505,25 @@ publications:
     url: https://www.sciencedirect.com/science/article/abs/pii/S0014256516301552
   authors:
   - name: Torres, AK
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0014256516301552
   - name: Escartín, N
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0014256516301552
   - name: Monzó, C
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0014256516301552
   - name: Guzmán, C
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0014256516301552
   - name: Ferrer, I
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0014256516301552
   - name: González-Muñoz, C
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0014256516301552
   - name: Peña, P
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0014256516301552
   - name: Monzó, V
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0014256516301552
   - name: Marcaida, G
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0014256516301552
   - name: Rodríguez-López, R
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0014256516301552
   paper:
     summary: To describe the populational distribution of the UGT1A1*28 variant (genetic variant code rs8175347) located in the promotor of the UGT gene and correlate its genotypes with the results of the fasting test, as well as its relationship with the biochemical disorder of Gilbert's syndrome (GS) in a Valencian population. We studied the prevalence of the genotypes (TA)6/6 (TA)6/7 and (TA)7/7 of the deleterious variant rs8175347 in 144 patients with hyperbilirubinemia, 38 of whom had previously undergone the fasting test to diagnose GS, and in 150 control patients. By analysing the genomic region of the TATA box of the UGT1A1 gene promotor using Sanger sequencing, we established the correlation between the rs8175347 genotypes and the fasting test results and with the patients’ biochemical disorders. The rate of heterozygosity of allele (TA)7 in the control population was 32% and increased to 87.59% among the patients with suspected GS. The rate of genotype TA7/7 was 81.94% among the patients with hyperbilirubinemia, compared with 11.33% in the control patients. The fasting test showed a 15.79% rate of false negatives and a 5.26% rate of false positives. The high frequency of allele (TA)7 among the Valencian control population, almost double the 5% reported for European control patients, confirms the high rate of GS reported in the Spanish population, without observing significant differences between the geographical ends of the country. The efficacy and reliability of the fasting test for the diagnosis of GS is questionable.
     url: https://www.sciencedirect.com/science/article/abs/pii/S0014256516301552
@@ -390,14 +537,23 @@ publications:
     url: https://genotipia.com/revista_gm/sindrome-x-fragil-caso-genetico/
   authors:
   - name: Monzó, C
+    url: https://genotipia.com/revista_gm/sindrome-x-fragil-caso-genetico/
   - name: Guzmán, C
+    url: https://genotipia.com/revista_gm/sindrome-x-fragil-caso-genetico/
   - name: Pérez-Gramunt, MA
+    url: https://genotipia.com/revista_gm/sindrome-x-fragil-caso-genetico/
   - name: Escartín, N
+    url: https://genotipia.com/revista_gm/sindrome-x-fragil-caso-genetico/
   - name: Gil Santiago, C
+    url: https://genotipia.com/revista_gm/sindrome-x-fragil-caso-genetico/
   - name: Gandía Artigues, L
+    url: https://genotipia.com/revista_gm/sindrome-x-fragil-caso-genetico/
   - name: Martínez Castellano, F
+    url: https://genotipia.com/revista_gm/sindrome-x-fragil-caso-genetico/
   - name: Marcaida, G
+    url: https://genotipia.com/revista_gm/sindrome-x-fragil-caso-genetico/
   - name: Rodríguez-López, R
+    url: https://genotipia.com/revista_gm/sindrome-x-fragil-caso-genetico/
   paper:
     summary: Fragile X Syndrome is the most common monogenic cause of intellectual disability. It originates by the expansion of the CGG triplet repeat in the 5’ non-coding region of FMR1 gene. We analyzed aforementioned region of susceptibility in relatives of a patient carrying an expansion in range of mutation, with the aim of identifying other carriers of deleterious alleles and offering genetic counseling. Alleles in range of premutation were found in the mother and sister (maternal half-sister) of the patient, with 106 and 60 repetitions respectively; none showed any phenotypic trait. The probability of inheriting a contracted premutated allele when maternally transmitted is low (approximately 0.76%). Therefore, given the finding of a lower number of repetitions in the offspring of a woman, the possibility of a mosaic allele product of a undetected mutated allele has to be ruled out in first stand; for this the employment of a technique of maximum sensitivity is essential. In our case it was impossible to obtain DNA samples from male parents; hence we proceeded with microsatellite analysis on the X chromosome to assign haplotypes segregating with the corresponding expanded alleles, trying to describe their heritability in the pedigree. We conclude that the premutation carried by the sister of the diagnosed patient, was inherited through her paternal route and therefore comes from a second deleterious allele, different from the one transmitted from her mother to her affected sibling. Haplotype structure identified in both carrier chromosomes, the individuals’ population of origin and the heritability by paternal branches, suggests a shared ancestor in previous generations.
     url: https://genotipia.com/revista_gm/sindrome-x-fragil-caso-genetico/
