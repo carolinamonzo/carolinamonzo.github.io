@@ -1,14 +1,34 @@
 section:
   name: Other # Title of section (default: "")
-  id: featured-posts # url id/slug of section *Required*
+  id: other # url id/slug of section *Required*
   enable: true # Boolean to determine if this section is enabled (default: false)
   weight: 10 # Order to display section in (default: alphabetical followed by weight)
   showOnNavbar: true # Boolean to determine if a link should be shown for this section on the navbar
   hideTitle: false # Can optionally hide the title in sections (default: false)
 
 # posts to feature
-posts:
-  - markdown-sample
-  - shortcodes
+accomplishments:
+- name: Direction
+  courseOverview: PhD Thesis (1), MSc Thesis (11)
+
+- name: Management
+  courseOverview: Coordinator of Junior BCBHub, Board member of I2SysBio and BCBHub, Member of Training Commitee
+
+- name: Organization of activities
+  courseOverview: Adopt a bioinformatician (mentoring program), Lab meetings, Biograu 2012 (student congress)
+
+- name: Software packages
+  courseOverview: R (1), Python (1)
+
+- name: Posters in National and International Conferences
+  courseOverview: Total of 42 from 2016 to 2025
+
+- name: Reviewer
+  courseOverview: Research articles (5), congress schedule (2), ISCB wikipedia competition (1)
+
+
+
+- name: Languages
+  courseOverview: English (C1), Spanish (Native), Catalan (Native), Italian (B2)
 
   # Here we need to put outreach, posters and other things like supervised projects etc.

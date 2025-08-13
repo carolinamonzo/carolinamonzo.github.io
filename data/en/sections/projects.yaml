@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Grants and projects
+  name: Grants
   id: projects
   enable: true
   weight: 5
