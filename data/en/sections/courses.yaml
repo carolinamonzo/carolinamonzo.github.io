@@ -1,7 +1,7 @@
 # section information
 section:
   name: Courses
-  id: accomplishments
+  id: courses
   enable: true
   weight: 9
   showOnNavbar: true
@@ -145,7 +145,7 @@ accomplishments:
   courseOverview: Theoretical and practical course on correct dissection of sharks.
 
 - name: Introduction to the identification of marine invertebrates of Mediterranean waters
-  timeline: "December 2021"
+  timeline: "December 2014"
   organization:
     name: University of Valencia
     url: https://www.uv.es/

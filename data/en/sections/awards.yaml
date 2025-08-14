@@ -1,7 +1,7 @@
 # section information
 section:
   name: Awards
-  id: achievements
+  id: awards
   enable: true
   weight: 6
   showOnNavbar: true
