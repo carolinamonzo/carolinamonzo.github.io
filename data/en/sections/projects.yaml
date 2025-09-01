@@ -19,6 +19,15 @@ buttons:
 
 # your projects
 projects:
+- name: JAE Intro 2025
+  logo: /images/sections/projects/csic.jpg
+  role: Principal Investigator
+  timeline: "Aug 2025 - Jan 2026"
+  #repo: https://github.com/tensorflow/tensorflow
+  url: "https://sede.csic.gob.es/tramites/programa-jae/jae-intro-2025"
+  summary: Grant for developing software for differentiating between technical noise and transcript divergency in long-reads transcriptomics.
+  tags: ["software development", "machine-learning", "CSIC"]
+
 - name: Oxford Nanopore Grant
   logo: /images/sections/projects/ont.png
   role: Principal Investigator
@@ -27,15 +36,6 @@ projects:
   url: "https://nanoporetech.com/support/customer-support/my-account/what-is-the-oxford-nanopore-grant-programme-"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: Grant for a Oxford Nanopore PromethION P2 Solo pack including sequencer and reagents. Investigating RNA degradation patterns using Nanopore long-read sequencing.
   tags: ["wet-lab", "software development", "Oxford Nanopore Technologies"]
-
-- name: JAE Intro 2025
-  logo: /images/sections/projects/csic.jpg
-  role: Principal Investigator
-  timeline: "Sep 2025 - Mar 2026"
-  #repo: https://github.com/tensorflow/tensorflow
-  url: "https://sede.csic.gob.es/tramites/programa-jae/jae-intro-2025"
-  summary: Grant for developing software for differentiating between technical noise and transcript divergency in long-reads transcriptomics.
-  tags: ["software development", "machine-learning", "CSIC"]
 
 - name: Marie Skłodowska-Curie Actions Postdoctoral Fellowship
   logo: /images/sections/projects/marie_curie1.jpg

@@ -21,6 +21,15 @@ buttons:
 
 # your projects
 outreachs:
+- name: National newspaper highlight about my recent publication
+  role: Interview and news
+  timeline: "August 2025"
+  image: images/sections/outreach/lasprovincias.jpeg
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://www.lasprovincias.es/sociedad/canal-mayores/revolucion-secuenciacion-genica-lupa-sobre-envejecimiento-enfermedades-20250731010247-nt.html"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: Interview and summary about the relevance of my recent publication on long-reads.
+  tags: ["general-public"]
+
 - name: Long-reads Bioinformatics Summer School
   role: Lecturer and Organizer
   timeline: "July 2025"
@@ -30,7 +39,7 @@ outreachs:
   summary: Introductory session on study design, sequencing technologies and ground truth data.
   tags: ["specialized-community", "specialization-courses"]
 
-- name: News post about my recent publication on multi-omics.
+- name: News post about my recent publication on multi-omics
   role: News
   timeline: "June 2025"
   image: /images/sections/outreach/rsgmosim.jpeg
@@ -38,7 +47,7 @@ outreachs:
   summary: Post by the Spanish Regional Student Group in bioinformatics about my latest published work.
   tags: ["general-public", "specialized-community"]
 
-- name: Interview and news publication about my recent work.
+- name: Interview and news publication about my recent work
   role: Interview
   timeline: "May 2025"
   image: /images/sections/outreach/nrg.jpeg
@@ -46,7 +55,7 @@ outreachs:
   summary: Interview about the relevance of my recent publication in Nature Reviews Genetics.
   tags: ["general-public"]
 
-- name: 1st Assembly of the CSIC Connection on Microbiology.
+- name: 1st Assembly of the CSIC Connection on Microbiology
   role: Invited talk
   timeline: "May 2025"
   image: /images/sections/achievements/conmicro.jpg
@@ -54,7 +63,7 @@ outreachs:
   summary: Talk about the activities of the Junior Bioinformatics and Computational Biology Hub at CSIC.
   tags: ["specialized-community"]
 
-- name: News post about my recent publication on long-reads.
+- name: News post about my recent publication on long-reads
   role: News
   timeline: "May 2025"
   image: /images/sections/outreach/rsgtd.jpeg
@@ -78,7 +87,7 @@ outreachs:
   summary: Talk about the activities of the Junior Bioinformatics and Computational Biology Hub at CSIC.
   tags: ["specialized-community"]
 
-- name: Seminar for the Spanish Society of Computational Biology.
+- name: Seminar for the Spanish Society of Computational Biology
   role: Invited talk
   timeline: "February 2025"
   image: /images/sections/achievements/sebibc.jpeg
@@ -149,7 +158,7 @@ outreachs:
   summary: Lecture about the functional iso-transcriptomics pipeline (Bioinformatics).
   tags: ["specialized-community", "specialization-courses"]
 
-- name: The 2024 Immcantantion Users Group Meeting.
+- name: The 2024 Immcantantion Users Group Meeting
   role: Invited talk
   timeline: "January 2024"
   image: /images/sections/achievements/immcantantion.jpeg
@@ -157,7 +166,7 @@ outreachs:
   summary: Talk about my published work on B-cells during aging and under anti-aging interventions.
   tags: ["specialized-community"]
 
-- name: Early Career Seminars of the I2SysBio.
+- name: Early Career Seminars of the I2SysBio
   role: Invited talk
   timeline: "November 2023"
   image: /images/sections/achievements/ecs.jpg
@@ -165,7 +174,7 @@ outreachs:
   summary: Talk about my published work MOSim, a bulk and single-cell multi-omics data simulator.
   tags: ["specialized-community"]
 
-- name: How on earth did I get here, by RSG Spain.
+- name: How on earth did I get here, by RSG Spain
   role: Invited talk
   timeline: "April 2023"
   image: /images/sections/outreach/hondigh.jpeg
@@ -173,7 +182,7 @@ outreachs:
   summary: Talk about my career and give tips and tricks to bioinformatics students of Valencia.
   tags: ["specialized-community"]
 
-- name: Radio Show at A Punt station.
+- name: Radio Show at A Punt station
   role: Invited talk
   timeline: "April 2021"
   summary: Talk about the brain drain.
