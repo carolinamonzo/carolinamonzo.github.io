@@ -28,3 +28,75 @@
     </div>
   </div>
 </div>
+
+<style>
+.outreach-filtr-control.active {
+    background-color: #007bff !important;
+    border-color: #007bff !important;
+    color: white !important;
+}
+
+.filtr-item {
+    transition: opacity 0.3s ease-in-out;
+}
+</style>
+
+<script>
+// Outreach Filtering Functionality
+document.addEventListener('DOMContentLoaded', function() {
+    // Get all filter buttons
+    const filterButtons = document.querySelectorAll('.outreach-filtr-control');
+    const outreachItems = document.querySelectorAll('.filtr-item');
+    
+    // Add click event listeners to all filter buttons
+    filterButtons.forEach(button => {
+        button.addEventListener('click', function() {
+            const filterValue = this.getAttribute('data-filter');
+            
+            // Remove active class from all buttons
+            filterButtons.forEach(btn => btn.classList.remove('active'));
+            
+            // Add active class to clicked button
+            this.classList.add('active');
+            
+            // Filter the outreach items
+            filterOutreachItems(filterValue);
+        });
+    });
+    
+    // Function to filter outreach items
+    function filterOutreachItems(filterValue) {
+        outreachItems.forEach(item => {
+            const categories = item.getAttribute('data-category');
+            
+            if (filterValue === 'all') {
+                // Show all items
+                item.style.display = 'block';
+                setTimeout(() => {
+                    item.style.opacity = '1';
+                }, 10);
+            } else {
+                // Check if the item has the selected category
+                if (categories && categories.includes(filterValue)) {
+                    item.style.display = 'block';
+                    setTimeout(() => {
+                        item.style.opacity = '1';
+                    }, 10);
+                } else {
+                    // Hide items that don't match
+                    item.style.opacity = '0';
+                    setTimeout(() => {
+                        item.style.display = 'none';
+                    }, 300);
+                }
+            }
+        });
+    }
+    
+    // Set "All" button as active by default
+    const allButton = document.querySelector('[data-filter="all"]');
+    if (allButton) {
+        allButton.classList.add('active');
+    }
+});
+</script>
