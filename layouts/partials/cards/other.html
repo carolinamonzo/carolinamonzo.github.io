@@ -1,0 +1,118 @@
+<div class="col-lg-6 col-xl-4 mb-4">
+  <div class="card other-card">
+    <div class="other-card-header">
+      {{ if eq .name "Direction" }}
+        <i class="fas fa-graduation-cap other-card-icon"></i>
+      {{ else if eq .name "Management" }}
+        <i class="fas fa-users-cog other-card-icon"></i>
+      {{ else if eq .name "Organization of activities" }}
+        <i class="fas fa-calendar-check other-card-icon"></i>
+      {{ else if eq .name "Software packages" }}
+        <i class="fas fa-code other-card-icon"></i>
+      {{ else if eq .name "Posters in National and International Conferences" }}
+        <i class="fas fa-file-alt other-card-icon"></i>
+      {{ else if eq .name "Reviewer" }}
+        <i class="fas fa-eye other-card-icon"></i>
+      {{ else if eq .name "Languages" }}
+        <i class="fas fa-globe other-card-icon"></i>
+      {{ else }}
+        <i class="fas fa-star other-card-icon"></i>
+      {{ end }}
+      <h3 class="other-card-title">{{ .name }}</h3>
+    </div>
+    
+    <div class="other-card-body">
+      {{ if eq .name "Direction" }}
+        <div class="other-card-content">
+          <div class="other-card-stats">
+            <div class="other-stat-item">
+              <strong>PhD Thesis:</strong> 1
+            </div>
+            <div class="other-stat-item">
+              <strong>MSc Thesis:</strong> 14
+            </div>
+          </div>
+          <div class="other-progress-bar">
+            <div class="other-progress-fill"></div>
+          </div>
+        </div>
+        
+      {{ else if eq .name "Management" }}
+        <div class="other-card-content">
+          <div class="other-card-stats">
+            <div class="other-stat-item">Coordinator of Junior BCBHub</div>
+            <div class="other-stat-item">Board member of I2SysBio</div>
+            <div class="other-stat-item">Board member of BCBHub</div>
+            <div class="other-stat-item">Member of Training Committee of I2SysBio</div>
+          </div>
+        </div>
+        
+      {{ else if eq .name "Organization of activities" }}
+        <div class="other-card-content">
+          <div class="other-card-stats">
+            <div class="other-stat-item">Adopt a bioinformatician (BCBHub mentoring program)</div>
+            <div class="other-stat-item">Lab meetings (MPI and I2SysBio)</div>
+            <div class="other-stat-item">Biograu 2012 (student congress)</div>
+          </div>
+        </div>
+        
+      {{ else if eq .name "Software packages" }}
+        <div class="other-card-content">
+          <div class="other-card-stats">
+            <div class="other-stat-item">
+              <i class="fab fa-r-project"></i> R: 1
+            </div>
+            <div class="other-stat-item">
+              <i class="fab fa-python"></i> Python: 1
+            </div>
+          </div>
+        </div>
+        
+      {{ else if eq .name "Posters in National and International Conferences" }}
+        <div class="other-card-content">
+          <div class="other-poster-counter">42</div>
+          <div class="other-poster-years">2016 - 2025</div>
+          <div class="other-card-stats">
+            <div class="other-stat-item">National Conferences: 17</div>
+            <div class="other-stat-item">International Conferences: 25</div>
+          </div>
+        </div>
+        
+      {{ else if eq .name "Reviewer" }}
+        <div class="other-card-content">
+          <div class="other-card-stats">
+            <div class="other-stat-item">Research articles: 5</div>
+            <div class="other-stat-item">Abstracts to present in ECCB2022 and JBI2025: 2</div>
+            <div class="other-stat-item">Articles for ISCB wikipedia competition: 4</div>
+            <div class="other-stat-item">MSc Thesis: 26</div>
+          </div>
+        </div>
+        
+      {{ else if eq .name "Languages" }}
+        <div class="other-card-content">
+          <div class="other-language-item">
+            <span class="other-language-name">English</span>
+            <span class="other-language-level">C1</span>
+          </div>
+          <div class="other-language-item">
+            <span class="other-language-name">Spanish</span>
+            <span class="other-language-level">Native</span>
+          </div>
+          <div class="other-language-item">
+            <span class="other-language-name">Catalan</span>
+            <span class="other-language-level">Native</span>
+          </div>
+          <div class="other-language-item">
+            <span class="other-language-name">Italian</span>
+            <span class="other-language-level">B2</span>
+          </div>
+        </div>
+        
+      {{ else }}
+        <div class="other-card-content">
+          {{ .courseOverview }}
+        </div>
+      {{ end }}
+    </div>
+  </div>
+</div>

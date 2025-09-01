@@ -9,13 +9,13 @@ section:
 # posts to feature
 accomplishments:
 - name: Direction
-  courseOverview: PhD Thesis (1), MSc Thesis (11)
+  courseOverview: PhD Thesis (1), MSc Thesis (14)
 
 - name: Management
-  courseOverview: Coordinator of Junior BCBHub, Board member of I2SysBio and BCBHub, Member of Training Commitee
+  courseOverview: Coordinator of Junior BCBHub, Board member of I2SysBio, Board member of BCBHub, Member of Training Commitee of I2SysBio
 
 - name: Organization of activities
-  courseOverview: Adopt a bioinformatician (mentoring program), Lab meetings, Biograu 2012 (student congress)
+  courseOverview: Adopt a bioinformatician (BCBHubmentoring program), Lab meetings (MPI and I2SysBio), Biograu 2012 (student congress)
 
 - name: Software packages
   courseOverview: R (1), Python (1)
@@ -24,7 +24,7 @@ accomplishments:
   courseOverview: Total of 42 from 2016 to 2025
 
 - name: Reviewer
-  courseOverview: Research articles (5), congress schedule (2), ISCB wikipedia competition (1)
+  courseOverview: Research articles (5), Abstracts to present in ECCB2022 and JBI2025 (22), Articles for ISCB wikipedia competition (4), MSc Thesis (26)
 
 
 
