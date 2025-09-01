@@ -36,6 +36,10 @@ socialLinks:
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/carolina-monz%C3%B3-944762134/"
 
+- name: Google Scholar
+  icon: "fas fa-graduation-cap"
+  url: "https://scholar.google.com/citations?user=G5sfC9IAAAAJ&hl=en&oi=ao"
+
 - name: ResearchGate
   icon: "fab fa-researchgate"
   url: "https://www.researchgate.net/profile/Carolina-Monzo?ev=hdr_xprf"
@@ -62,7 +66,7 @@ badges:
 
 #- type: certification
 #  name: Artificial Intelligence and Machine Learning
-#  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
+#  url: "https://www.credly.com/badges/artificial-intelligence-and-machine-learning"
 #  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
 
 - type: soft-skill-indicator

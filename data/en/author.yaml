@@ -9,7 +9,6 @@ contactInfo:
   email: "carolina.monzo.age@gmail.com"
   github: carolinamonzo
   linkedin: Carolina Monzó
-  google-scholar: Carolina Monzó
 
 # some summary about what you do
 summary:
@@ -18,3 +17,5 @@ summary:
   - I love statistics
   - I work on developing tools for the analysis of genomic and transcriptomic data
   - I love to work using statistics to answer biological questions
+
+  # Here we need to put outreach, posters and other things like supervised projects etc.
