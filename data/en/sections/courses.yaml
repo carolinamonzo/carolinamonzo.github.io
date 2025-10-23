@@ -11,10 +11,24 @@ section:
 
 # Your accomplishments
 accomplishments:
+- name: Design Prompts for Everyday Work Tasks
+  timeline: "September 2025"
+  organization:
+    name: Google with Coursera
+    url: https://www.coursera.org/
+  courseOverview: Course on designing prompts for everyday work tasks.
+
+- name: Start Writing Prompts like a Pro
+  timeline: "September 2025"
+  organization:
+    name: Google with Coursera
+    url: https://www.coursera.org/
+  courseOverview: Course on writing prompts for AI writing.
+
 - name: AWS Cloud Practitioner Essentials
   timeline: "August 2025"
   organization:
-    name: AWS with Coursera
+    name: Amazon Web Services with Coursera
     url: https://www.coursera.org
   courseOverview: Core AWS concepts and the benefits of using AWS Cloud. AWS global infrastructure basics. Key AWS services (compute, networking, databases, storage). Financial aspects of AWS (cost models, billing, pricing, and tools to manage expenses)
 

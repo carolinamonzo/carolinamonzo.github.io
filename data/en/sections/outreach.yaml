@@ -21,6 +21,22 @@ buttons:
 
 # your projects
 outreachs:
+- name: Selected highlight talk about MOSim
+  role: Selected speaker
+  timeline: "October 2025"
+  image: /images/sections/outreach/JBI_MOSim.jpeg
+  url: "https://jbi2025.cnb.csic.es/programme/"
+  summary: Talk about MOSim at the XV Bioinformatics Symposium.
+  tags: ["specialized-community"]
+  
+- name: Selected highlight talk about SQANTI-reads
+  role: Selected speaker
+  timeline: "October 2025"
+  image: /images/sections/outreach/JBI_SQANTI-reads.jpeg
+  url: "https://jbi2025.cnb.csic.es/programme/"
+  summary: Talk about SQANTI-reads at the XV Bioinformatics Symposium.
+  tags: ["specialized-community"]
+
 - name: National newspaper highlight about my recent publication
   role: Interview and news
   timeline: "August 2025"
