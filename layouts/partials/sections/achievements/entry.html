@@ -1,7 +1,8 @@
 {{- /* Render a single achievement card with crisp thumbnails and 2x srcset */ -}}
 {{- $imgPath := strings.TrimPrefix .image "/" -}}
 {{- $orig := resources.Get $imgPath -}}
-{{- if $orig -}}
+{{- $isImage := and $orig (eq $orig.MediaType.MainType "image") -}}
+{{- if $isImage -}}
   {{- /* Tune sizes to card width; increase if cards are larger */ -}}
   {{- $thumb1x := $orig.Fit "480x q80" -}}
   {{- $thumb2x := $orig.Fit "960x q80" -}}
@@ -21,10 +22,15 @@
   </div>
 {{- else -}}
   <div class="col-6 col-md-4 col-lg-3 mb-4">
-    <div class="border p-3">
+    <a href="{{ .image }}" class="achievement d-block">
+      <img
+        class="img-fluid"
+        alt="{{ .title }}"
+        src="{{ .image }}"
+      >
       <div class="mt-2 small fw-600">{{ .title }}</div>
       <div class="text-muted small">{{ .summary }}</div>
-    </div>
+    </a>
   </div>
 {{- end -}}
 
