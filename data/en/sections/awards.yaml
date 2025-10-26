@@ -10,13 +10,16 @@ section:
 
 # Your achievements achievements
 achievements:
+- title: 1st Prize Best Highlight Talk
+  image: /images/sections/achievements/1st_prize_JBI.jpeg
+  summary: XV Bioinformatics Symposium (JBI 2025).
 - title: Keynote Speaker
   image: /images/sections/achievements/keynote.jpeg
   summary: IX Spanish Symposium of Bioinformatics Students.
 - title: 2nd Prize Best Flash Talk
   image: /images/sections/achievements/flashtalk.jpeg
-  summary: 2nd Symposium for Spanish-Speaking Students
-- title: Finalist Best PhD Thesis
+  summary: 2nd Symposium for Spanish-Speaking Students in Bioinformatics.
+- title: 2nd Prize Best PhD Thesis
   image: /images/sections/achievements/accesit_phd.jpeg
   summary: Spanish Society for Bioinformatics and Computational Biology.
 - title: Best Poster Prize
