@@ -21,7 +21,7 @@ buttons:
 
 # your publications
 publications:
-- title: To join or not to join: handling biological replicates in long-read RNA sequencing data
+- title: To join or not to join handling biological replicates in long-read RNA sequencing data
   publishedIn:
     name: BiorXiv
     date: 12 December 2025
