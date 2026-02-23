@@ -21,6 +21,22 @@ buttons:
 
 # your projects
 outreachs:
+- name: Radio Interview by CEE Squema
+  role: Invited scientist
+  timeline: "February 2026"
+  image: /images/sections/outreach/Squema2026.jpeg
+  url: "https://i2sysbio.es/communication/1804/"
+  summary: Visit and interview at CCE Squema special education school.
+  tags: ["general-public"]
+
+- name: International day of Women in Science 2026
+  role: Highlight woman in science
+  timeline: "February 2026"
+  image: /images/sections/outreach/Poster_11F_2026.jpg
+  url: "https://i2sysbio.es/communication/1804/"
+  summary: Profile highlight by the I2SysBio Gender Equality Committee.
+  tags: ["general-public"]
+
 - name: Selected highlight talk about MOSim
   role: Selected speaker
   timeline: "October 2025"
