@@ -15,7 +15,16 @@ accomplishments:
   courseOverview: PhD Thesis (1), MSc Thesis (16)
 
 - name: Software packages
-  courseOverview: R (1), Python (1)
+  software:
+  - name: MOSim
+    url: https://www.bioconductor.org/packages/release/bioc/html/MOSim.html
+    language: R
+  - name: SQANTI-reads
+    url: https://github.com/ConesaLab/SQANTI3
+    language: Python
+  - name: SQANTI-browser
+    url: https://github.com/ConesaLab/SQANTI-browser
+    language: Python
 
 - name: Languages
   courseOverview: English (C1), Spanish (Native), Catalan (Native), Italian (B2)

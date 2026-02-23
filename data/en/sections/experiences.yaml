@@ -26,18 +26,19 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop tools for long-reads transcriptomics data analysis.
+    - Design and develop tools for long-reads transcriptomics data analysis (SQANTI-reads) and visualizations (SQANTI-browser).
     - Supervise PhD and MSc students.
     - Design studies and apply for independent funding.
     - Represent postdocs in the institute board.
     - Member of the training committee.
     - Co-lead the Junior Hub on Bioinformatics and Computational Biology of CSIC.
+    - Scientific director of the Advanced Bioinformatics Summer School of the BCB network of CSIC.
 
   - designation: Postdoctoral Researcher
     start: Sep 2022
     end: Sep 2024
     responsibilities:
-    - Design and develop tools for single-cell multi-omics data simulation and analysis.
+    - Design and develop tools for single-cell multi-omics data simulation and analysis (MOSim).
     - Supervise MSc students, organize seminars, manage social media.
     - Design studies and collaborate in funding applications.
 
@@ -60,6 +61,7 @@ experiences:
     start: Feb 2019
     end: Oct 2022
     responsibilities:
+    - Machine Learning for aging and anti-aging interventions in mice.
     - Multiple omics data analysis, cross-sectional and longitudinal statistical analysis.
     - DNA, RNA, proteins and metabolites extraction. Library preparation and sequencing.
     - Study aging and anti-aging interventions in mice, focusing on the microbiome and adaptive immune system.

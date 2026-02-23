@@ -62,12 +62,26 @@
       {{ else if eq .name "Software packages" }}
         <div class="other-card-content">
           <div class="other-card-stats">
-            <div class="other-stat-item">
-              <i class="fab fa-r-project"></i> R: 1
-            </div>
-            <div class="other-stat-item">
-              <i class="fab fa-python"></i> Python: 1
-            </div>
+            {{ if .software }}
+              {{ range .software }}
+                <a href="{{ .url }}" target="_blank" class="other-stat-item software-link" style="text-decoration: none; color: inherit; display: inline-block;">
+                  {{ if eq .language "R" }}
+                    <i class="fab fa-r-project"></i> {{ .name }}
+                  {{ else if eq .language "Python" }}
+                    <i class="fab fa-python"></i> {{ .name }}
+                  {{ else }}
+                    <i class="fas fa-code"></i> {{ .name }}
+                  {{ end }}
+                </a>
+              {{ end }}
+            {{ else }}
+              <div class="other-stat-item">
+                <i class="fab fa-r-project"></i> R: 1
+              </div>
+              <div class="other-stat-item">
+                <i class="fab fa-python"></i> Python: 2
+              </div>
+            {{ end }}
           </div>
         </div>
         
