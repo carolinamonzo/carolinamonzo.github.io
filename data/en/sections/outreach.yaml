@@ -21,6 +21,14 @@ buttons:
 
 # your projects
 outreachs:
+- name: Updated training in science and health at Mas Camarena pre-university complex
+  role: Lecturer
+  timeline: "May 2026"
+  image: /images/sections/outreach/MasCamarena2026.jpeg
+  url: "https://ciclosformativos.colegiomascamarena.es/"
+  summary: Class on introduction to bioinformatics to vocational training students.
+  tags: ["general-public"]
+
 - name: Radio Interview by CEE Squema
   role: Invited scientist
   timeline: "February 2026"

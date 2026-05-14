@@ -9,7 +9,7 @@ section:
 # posts to feature
 accomplishments:
 - name: Management
-  courseOverview: Coordinator of Junior BCBHub, Board member of I2SysBio, Board member of BCBHub, Member of Training Commitee of I2SysBio
+  courseOverview: Coordinator of Junior BCBHub, Board member of I2SysBio, Board member of BCBHub, Member of Training Commitee of I2SysBio, Member of the Gender Equality Committee of I2SysBio
 
 - name: Direction
   courseOverview: PhD Thesis (1), MSc Thesis (16)
@@ -30,12 +30,12 @@ accomplishments:
   courseOverview: English (C1), Spanish (Native), Catalan (Native), Italian (B2)
 
 - name: Reviewer
-  courseOverview: Research articles (5), Abstracts to present in ECCB2022 and JBI2025 (22), Articles for ISCB wikipedia competition (4), MSc Thesis (26)
+  courseOverview: Research articles (9), Abstracts to present in ECCB2022 and JBI2025 (22), Articles for ISCB wikipedia competition (4), MSc Thesis (26)
 
 - name: Posters in National and International Conferences
   courseOverview: National Conferences (17), International Conferences (27), Total of 44 from 2016 to 2025
 
 - name: Organization of activities
-  courseOverview: Adopt a bioinformatician (BCBHub mentoring program), Long-reads Summer School 2025, Long-read transcriptomics 2024, Workshop "CSIC4CSIC" 2024, Lab meetings (MPI and I2SysBio), Biograu 2012 (student congress)
+  courseOverview: Adopt a bioinformatician (BCBHub mentoring program), Long-reads Summer School 2025, Long-read transcriptomics 2024, Workshop "CSIC4CSIC" 2024, Lab meetings (MPI and I2SysBio), Biograu 2012 (student congress), Scientific Director of Advanced Bioinformatics Summer School
 
   # Here we need to put outreach, posters and other things like supervised projects etc.

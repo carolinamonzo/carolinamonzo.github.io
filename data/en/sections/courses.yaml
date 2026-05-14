@@ -11,6 +11,13 @@ section:
 
 # Your accomplishments
 accomplishments:
+- name: Mastering Advanced Longitudinal Multi-Omics Analysis
+  timeline: "May 2026"
+  organization:
+    name: MixOmics Pro
+    url: https://mixomics.pro/academy/
+  courseOverview: Course on advanced longitudinal multi-omics analysis.
+
 - name: Design Prompts for Everyday Work Tasks
   timeline: "September 2025"
   organization:
