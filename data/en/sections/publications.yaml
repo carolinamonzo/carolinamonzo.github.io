@@ -21,6 +21,32 @@ buttons:
 
 # your publications
 publications:
+- title: SQANTI-browser: visualization and curation of SQANTI3-classified long-read transcriptomes within the UCSC Genome Browser
+  publishedIn:
+    name: BiorXiv
+    date: 29 May 2026
+    url: https://www.biorxiv.org/content/10.64898/2026.05.25.727625v2
+  authors:
+  - name: Paniagua, A
+    url: https://www.biorxiv.org/content/10.64898/2026.05.25.727625v2
+  - name: Blanco, C
+    url: https://www.biorxiv.org/content/10.64898/2026.05.25.727625v2
+  - name: Colomer Fernández, A
+    url: https://www.biorxiv.org/content/10.64898/2026.05.25.727625v2
+  - name: Diekhans, M
+    url: https://www.biorxiv.org/content/10.64898/2026.05.25.727625v2
+  - name: Conesa, A
+    url: https://www.biorxiv.org/content/10.64898/2026.05.25.727625v2
+  - name: Monzó, C
+    url: https://www.biorxiv.org/content/10.64898/2026.05.25.727625v2
+
+  paper:
+    summary: Long-read sequencing enables transcriptome-wide isoform discovery. However, it generates substantial technical and structural ambiguity that complicates transcript interpretation. Here, we present SQANTI-browser, a classification-aware visualization framework that converts SQANTI3 outputs into interactive UCSC Genome Browser Track Hubs, preserving full transcript structural metadata. By integrating SQANTI classifications directly within the UCSC ecosystem, SQANTI-browser enables dynamic filtering and evidence-guided curation alongside public resource tracks. Furthermore, its adaptive architecture natively supports non-reference genomes, orthogonal data, and custom metadata fields. Applied to clinical, noisy, and synthetic datasets, SQANTI-browser resolves alignment artifacts and rescues actionable novel isoforms, providing a robust framework for long-read transcriptome curation.
+    url: https://www.biorxiv.org/content/10.64898/2026.05.25.727625v2
+  categories: ["Corresponding author"]
+  tags: ["Long-reads", "Visualization", "Data Analysis", "Transcriptomics"]
+
+
 - title: To join or not to join handling biological replicates in long-read RNA sequencing data
   publishedIn:
     name: BiorXiv
