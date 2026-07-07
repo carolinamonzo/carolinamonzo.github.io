@@ -1,6 +1,6 @@
 baseURL: https://carolinamonzo.github.io
 
-languageCode: en
+locale: en
 title: "Carolina's CV"
 
 # Use Hugo modules to add theme
@@ -21,8 +21,8 @@ module:
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
 languages:
   en:
-    languageCode: en
-    languageName: English
+    locale: en
+    label: English
     title: "Carolina's CV"
     weight: 1
 # default language for the content
