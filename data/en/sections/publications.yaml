@@ -23,7 +23,7 @@ buttons:
 publications:
 - title: "SQANTI-browser: visualization and curation of SQANTI3-classified long-read transcriptomes within the UCSC Genome Browser"
   publishedIn:
-    name: BiorXiv (Nature Communications, accepted)
+    name: BiorXiv
     date: 29 May 2026
     url: https://www.biorxiv.org/content/10.64898/2026.05.25.727625v2
   authors:
@@ -49,7 +49,7 @@ publications:
 
 - title: To join or not to join handling biological replicates in long-read RNA sequencing data
   publishedIn:
-    name: BiorXiv
+    name: BiorXiv (Nature Communications, accepted)
     date: 12 December 2025
     url: https://www.biorxiv.org/content/10.64898/2025.12.09.693269v1
   authors:
