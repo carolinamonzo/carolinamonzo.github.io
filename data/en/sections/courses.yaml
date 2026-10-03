@@ -11,6 +11,34 @@ section:
 
 # Your accomplishments
 accomplishments:
+- name: Clinical Trials Analysis, Monitoring, and Presentation
+  timeline: "2026"
+  organization:
+    name: Johns Hopkins University on Coursera
+    url: https://www.coursera.org/
+  courseOverview: Course on analysing, monitoring and presenting clinical trial results (4h).
+
+- name: Clinical Trials Data Management and Quality Assurance
+  timeline: "2026"
+  organization:
+    name: Johns Hopkins University on Coursera
+    url: https://www.coursera.org/
+  courseOverview: Course on data management and quality assurance in clinical trials (6h).
+
+- name: Design and Conduct of Clinical Trials
+  timeline: "2026"
+  organization:
+    name: Johns Hopkins University on Coursera
+    url: https://www.coursera.org/
+  courseOverview: Course on designing and conducting clinical trials (4h).
+
+- name: Design and Interpretation of Clinical Trials
+  timeline: "2026"
+  organization:
+    name: Johns Hopkins University on Coursera
+    url: https://www.coursera.org/
+  courseOverview: Course on designing clinical trials and interpreting their results (10h).
+
 - name: Mastering Advanced Longitudinal Multi-Omics Analysis
   timeline: "May 2026"
   organization:
