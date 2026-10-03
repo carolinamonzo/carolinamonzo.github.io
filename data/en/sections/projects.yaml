@@ -41,7 +41,7 @@ projects:
   logo: /images/sections/projects/marie_curie1.jpg
   image: /images/sections/projects/sqantireads.svg
   role: Principal Investigator
-  timeline: "Sep 2024 - Sep 2026"
+  timeline: "Sep 2024 - Aug 2026"
   repo: https://github.com/ConesaLab/SQANTI3
   summary: Grant for deciphering the role of RNA biological noise in aging using long-reads transcriptomics.
   tags: ["software development","European Comision"]

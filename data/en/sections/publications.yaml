@@ -47,35 +47,35 @@ publications:
   tags: ["Long-reads", "Visualization", "Data Analysis", "Transcriptomics"]
 
 
-- title: To join or not to join handling biological replicates in long-read RNA sequencing data
+- title: Handling biological replicates in long-read RNA sequencing data by joining or not joining
   publishedIn:
-    name: BiorXiv (Nature Communications, accepted)
-    date: 12 December 2025
-    url: https://www.biorxiv.org/content/10.64898/2025.12.09.693269v1
+    name: Nature Communications
+    date: 01 September 2026
+    url: https://www.nature.com/articles/s41467-026-77367-6
   authors:
   - name: Jetzinger, F
-    url: https://www.biorxiv.org/content/10.64898/2025.12.09.693269v1
+    url: https://www.nature.com/articles/s41467-026-77367-6
   - name: Paniagua, A
-    url: https://www.biorxiv.org/content/10.64898/2025.12.09.693269v1
+    url: https://www.nature.com/articles/s41467-026-77367-6
   - name: Cormack, S
-    url: https://www.biorxiv.org/content/10.64898/2025.12.09.693269v1
+    url: https://www.nature.com/articles/s41467-026-77367-6
   - name: Mestre-Tomás, J
-    url: https://www.biorxiv.org/content/10.64898/2025.12.09.693269v1
+    url: https://www.nature.com/articles/s41467-026-77367-6
   - name: Morante-Redolat, JM
-    url: https://www.biorxiv.org/content/10.64898/2025.12.09.693269v1
+    url: https://www.nature.com/articles/s41467-026-77367-6
   - name: Fariñas, I
-    url: https://www.biorxiv.org/content/10.64898/2025.12.09.693269v1
-  - name: Ferrández, L
-    url: https://www.biorxiv.org/content/10.64898/2025.12.09.693269v1
+    url: https://www.nature.com/articles/s41467-026-77367-6
+  - name: Ferrández-Peral, L
+    url: https://www.nature.com/articles/s41467-026-77367-6
   - name: Götz, S
-    url: https://www.biorxiv.org/content/10.64898/2025.12.09.693269v1
+    url: https://www.nature.com/articles/s41467-026-77367-6
   - name: Monzó, C
-    url: https://www.biorxiv.org/content/10.64898/2025.12.09.693269v1
+    url: https://www.nature.com/articles/s41467-026-77367-6
   - name: Conesa, A
-    url: https://www.biorxiv.org/content/10.64898/2025.12.09.693269v1
+    url: https://www.nature.com/articles/s41467-026-77367-6
   paper:
-    summary: Long-read RNA sequencing (lrRNA-seq) has revolutionized transcriptomics facilitating the study of alternative splicing and resulting in identification of thousands of novel transcripts. While isoform identification has received significant attention, the handling of biologically replicated lrRNA-seq datasets remains less explored. However, how multiple samples are combined in a lrRNA-seq study may strongly impact transcript identification. This study defines and evaluates two strategies for obtaining consensus transcriptomes from multi-sample lrRNA-seq data “Join & Call”, where reads from all samples are combined before transcript identification, and “Call & Join”, where transcript identification is performed on individual samples before combining the resulting annotations. We applied these strategies to a highly replicated dataset of mouse brain and kidney tissues, using both PacBio and ONT technologies, across six widely used transcript reconstruction tools. Our results indicate that the optimal strategy depends on the chosen computational tool and research objective. We found that Join & Call is generally more suitable for discovering rarely occurring, novel isoforms, as pooling evidence increases confidence in calling lowly-expressed transcripts. Conversely, Call & Join is computationally more efficient and often preferable for highly replicated datasets when the investigation of rare novel transcripts is not the primary objective. Our findings provide a conceptual and practical framework for multi-sample transcriptome reconstruction, guiding best practices in the context of increasingly large-scale lrRNA-seq studies.
-    url: https://www.biorxiv.org/content/10.64898/2025.12.09.693269v1
+    summary: While isoform identification from long-read RNA sequencing (lrRNA-seq) data has received significant attention, the handling of biologically replicated lrRNA-seq datasets remains less explored. This study defines two strategies for obtaining consensus transcriptomes from multi-sample lrRNA-seq data — Join & Call, where reads from all samples are combined before transcript reconstruction, and Call & Join, where transcript reconstruction is performed on individual samples before combining the resulting annotations. We apply these strategies to mouse brain and kidney tissue datasets, using PacBio and ONT technologies, across six transcript reconstruction tools. Our results indicate that the optimal strategy depends on the tool and research objective. We find that Join & Call is generally preferable for discovering novel isoforms, while Call & Join is often preferable for highly replicated datasets when the discovery of novelty is secondary. Our findings provide a conceptual and practical framework for multi-sample transcript reconstruction, guiding best practices for increasingly large-scale lrRNA-seq studies.
+    url: https://www.nature.com/articles/s41467-026-77367-6
   categories: ["Corresponding author"]
   tags: ["Long-reads", "Statistics", "Data Analysis", "Transcriptomics"]
 

@@ -21,6 +21,14 @@ buttons:
 
 # your projects
 outreachs:
+- name: Advanced Bioinformatics Summer School 2026
+  role: Scientific Director, Organizer and Lecturer
+  timeline: "July 2026"
+  image: /images/sections/outreach/BCB_SummerSchool2026.jpeg
+  url: "https://conexionbcb.github.io/Summer_School_2026/"
+  summary: Organization and teaching of the advanced bioinformatics summer school of the CSIC Connection on Bioinformatics and Computational Biology, covering long-read transcriptomics, genome assembly, protein structure prediction, systems biology, single-cell, multi-omics and spatial transcriptomics.
+  tags: ["specialized-community", "specialization-courses"]
+
 - name: Selected talk about SQANTI-browser
   role: Selected speaker
   timeline: "June 2026"

@@ -8,11 +8,11 @@ section:
   template: sections/about.html
 
 # your designation
-designation: MSCA Postdoctoral Fellow
+designation: Clinical Statistical Analyst
 # your company information
 company:
-  name: Institute for Integrative Systems Biology
-  url: "https://i2sysbio.es/"
+  name: Biorce
+  url: "https://www.biorce.com/"
 
 # your resume. this file path should be relative to you "static" directory
 # Dreprecated. Use resourceLinks instead.
